@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mon-Joli-Pull/static/css/main.12f48d3c.css",
+    "main.js": "/Mon-Joli-Pull/static/js/main.df70725a.js",
+    "static/media/dublin.png": "/Mon-Joli-Pull/static/media/dublin.9eee1efa3ebc5c067fd5.png",
+    "static/media/chamonix.png": "/Mon-Joli-Pull/static/media/chamonix.a927ab82a7f37398d346.png",
+    "static/media/reykjavik.png": "/Mon-Joli-Pull/static/media/reykjavik.5390d7561dd0a108ecce.png",
+    "static/media/gstadt.png": "/Mon-Joli-Pull/static/media/gstadt.b7d1a4ad9e6f76d62cc2.png",
+    "static/media/logo.png": "/Mon-Joli-Pull/static/media/logo.adc59c1d94a21094c1f1.png",
+    "static/media/heat.svg": "/Mon-Joli-Pull/static/media/heat.f6d6bf6449f0d0c79f45dbb2d2ec0247.svg",
+    "index.html": "/Mon-Joli-Pull/index.html",
+    "main.12f48d3c.css.map": "/Mon-Joli-Pull/static/css/main.12f48d3c.css.map",
+    "main.df70725a.js.map": "/Mon-Joli-Pull/static/js/main.df70725a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f48d3c.css",
+    "static/js/main.df70725a.js"
+  ]
+}
