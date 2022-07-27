@@ -1,0 +1,18 @@
+.mjp-banner {
+	color: #7e7e7e;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px #27c7d4;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+.mpj-title {
+	padding-left: 32px;
+}
+
+.mjp-logo {
+	height: 45px;
+	width: 45px;
+}
